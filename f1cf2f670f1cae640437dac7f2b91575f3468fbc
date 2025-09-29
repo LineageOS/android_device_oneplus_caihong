@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "8f007b78_e53d9718",
+        "filename": "device.mk",
+        "patchSetId": 4
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-09-29T20:29:57Z",
+      "side": 1,
+      "message": "Move to lineage_caihong.mk, to look similar to erhai.",
+      "revId": "f1cf2f670f1cae640437dac7f2b91575f3468fbc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
