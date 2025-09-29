@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "7ba05b96_561aea76",
+        "filename": "overlay/OPlusSystemUIResTarget/res/values/dimens.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-09-29T20:08:36Z",
+      "side": 1,
+      "message": "?",
+      "range": {
+        "startLine": 9,
+        "startChar": 65,
+        "endLine": 9,
+        "endChar": 68
+      },
+      "revId": "9e00985b51eed5ebb322c069ddf86227984cfa02",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
