@@ -83,6 +83,30 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "c0a981c2_ff426ee5",
+        "filename": "device.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 33,
+      "author": {
+        "id": 32811
+      },
+      "writtenOn": "2025-09-29T20:24:08Z",
+      "side": 1,
+      "message": "Got it, Done",
+      "parentUuid": "7bb9232e_d59fee05",
+      "range": {
+        "startLine": 31,
+        "startChar": 0,
+        "endLine": 33,
+        "endChar": 72
+      },
+      "revId": "2d32c7561080a8b398bb9bbf0d225432838a419a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "e26c5f28_45696bce",
