@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "f4af65ca_7a4a5215",
+        "filename": "proprietary-firmware.txt",
+        "patchSetId": 5
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 30975
+      },
+      "writtenOn": "2025-09-30T03:35:42Z",
+      "side": 1,
+      "message": "Maybe we should update to here b1285c2b3e7fe6722e7aced89544bfb5cb72fe0d",
+      "revId": "8a012d67371395ef46c2da09ed7f387f3ad58366",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
