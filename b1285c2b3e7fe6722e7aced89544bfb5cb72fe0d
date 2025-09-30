@@ -20,6 +20,24 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "9936a86a_d45ffd40",
+        "filename": "device.mk",
+        "patchSetId": 5
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 32811
+      },
+      "writtenOn": "2025-09-30T04:07:25Z",
+      "side": 1,
+      "message": "vendor/bin/hw/vendor.qti.hardware.display.composer-service has deps disabled. its not built unless specified",
+      "parentUuid": "70ccc35a_874f1d3d",
+      "revId": "b1285c2b3e7fe6722e7aced89544bfb5cb72fe0d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "f10bf1c3_b9ec17f7",
         "filename": "proprietary-files.txt",
         "patchSetId": 5
