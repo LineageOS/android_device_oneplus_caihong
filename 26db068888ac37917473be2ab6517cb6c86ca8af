@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "7239972c_96bc5991",
+        "filename": "lineage_caihong.mk",
+        "patchSetId": 6
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 30975
+      },
+      "writtenOn": "2025-09-30T07:34:01Z",
+      "side": 1,
+      "message": "SPDX-FileCopyrightText: The LineageOS Project",
+      "revId": "26db068888ac37917473be2ab6517cb6c86ca8af",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
