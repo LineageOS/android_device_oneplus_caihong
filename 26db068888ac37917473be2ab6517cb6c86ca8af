@@ -16,6 +16,24 @@
       "message": "SPDX-FileCopyrightText: The LineageOS Project",
       "revId": "26db068888ac37917473be2ab6517cb6c86ca8af",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b5f0d14f_0d6d69fb",
+        "filename": "lineage_caihong.mk",
+        "patchSetId": 6
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 32811
+      },
+      "writtenOn": "2025-09-30T07:57:36Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "7239972c_96bc5991",
+      "revId": "26db068888ac37917473be2ab6517cb6c86ca8af",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
