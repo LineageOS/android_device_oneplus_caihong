@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b1933d76_65e4ca9d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-10-13T18:17:35Z",
+      "side": 1,
+      "message": "There\u0027s also the keylayout changes.",
+      "revId": "fa2913b1b0e7bd8f0c5f00882c7ac29fab5ef244",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
