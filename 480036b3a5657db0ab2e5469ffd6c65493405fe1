@@ -16,6 +16,24 @@
       "message": "Spaces, not tabs",
       "revId": "480036b3a5657db0ab2e5469ffd6c65493405fe1",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8bed8ae4_9a30a6bf",
+        "filename": "BoardConfig.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 32811
+      },
+      "writtenOn": "2025-11-09T16:28:43Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "51856d8c_0b4c5c4b",
+      "revId": "480036b3a5657db0ab2e5469ffd6c65493405fe1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
