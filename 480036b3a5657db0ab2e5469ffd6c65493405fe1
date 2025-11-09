@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "51856d8c_0b4c5c4b",
+        "filename": "BoardConfig.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-11-09T16:26:29Z",
+      "side": 1,
+      "message": "Spaces, not tabs",
+      "revId": "480036b3a5657db0ab2e5469ffd6c65493405fe1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
