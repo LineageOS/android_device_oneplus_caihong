@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b799b2a6_0ad601b4",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 30975
+      },
+      "writtenOn": "2025-12-29T10:25:35Z",
+      "side": 1,
+      "message": "Maybe use this? Other oplus device follow same.\ncaihong: Update from OOS 11.F.x",
+      "revId": "994893116bc7082606bf0dd1d4f7c0b95ff563da",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
