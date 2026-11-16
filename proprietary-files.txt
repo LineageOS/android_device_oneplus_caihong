@@ -755,6 +755,9 @@ vendor/gpu/kbc/sequence_manifest.bin
 vendor/gpu/kbc/unified_kbcs_64.bin
 vendor/gpu/kbc/unified_ksqs.bin
 
+# Media configs
+odm/etc/camera/media_profiles.xml:vendor/etc/media_profiles_pineapple.xml;TRYSRCFIRST
+
 # Neural networks
 odm/lib64/aiboost/libQnnHtp.so;MODULE_SUFFIX=.aiboost
 odm/lib64/aiboost/libQnnHtpPrepare.so;MODULE_SUFFIX=.aiboost
