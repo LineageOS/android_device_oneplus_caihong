@@ -72,8 +72,7 @@ PRODUCT_SOONG_NAMESPACES += \
 
 # WiFi firmware symlinks
 PRODUCT_PACKAGES += \
-    firmware_wlan_mac.bin_symlink \
-    firmware_WCNSS_qcom_cfg.ini_symlink
+    firmware_wlan_mac.bin_symlink
 
 # Wireless pen
 PRODUCT_PACKAGES += \
